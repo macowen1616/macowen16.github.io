@@ -2,18 +2,18 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Makay Crandall - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/macowen1616/macowen16.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Makay_Crandall2025©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: www.linkedin.com/in/makay-crandall-30796b186
 
   navbar:
     background: primary
