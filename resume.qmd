@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Makay Crandall
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Assistant Networking Engineer, Computer Science Student at BYUI
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,25 +13,25 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Computer Science
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Web Development, Data Science, and Python
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data Analysis, Web Design front&Back End
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-2019`
+__Spanish Springs High School__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2023 - now`
+__Brigham Young University Idaho__
 
 - Sizar
 
@@ -73,16 +73,14 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`June 2017-September 2017`
+__Redhawk Golf Coarse__, Sparks, Nevada
 
-- Warden
-- Minted coins
+`June 2019–January 2020 & February 2023– August 2023`
+__Geodis, Inventory__, Reno, Nevada
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`June 2019–January 2020 & February 2023– August 2023`
+__Assistant Networking Engineer__, BYUI
 
 <!-- ### Footer
 
