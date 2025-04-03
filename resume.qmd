@@ -2,12 +2,12 @@
 layout: cv
 title: Makay Crandall
 ---
-# Isaac Newton
+### Makay Crandall
 Assistant Networking Engineer, Computer Science Student at BYUI
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="Cra20019@byui.edu">Cra20019@byui.edu</a>
+| <a href="https://macowen1616.github.io/macowen16.github.io/">My page</a>
 </div>
 
 
@@ -33,19 +33,14 @@ __Spanish Springs High School__
 `2023 - now`
 __Brigham Young University Idaho__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Student
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2021-2023`
+Missionary, Served in Veracruz, Mexico
 
 Associate, *French Academy of Science*, Paris, France
 
@@ -84,4 +79,4 @@ __Assistant Networking Engineer__, BYUI
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 5 -->
