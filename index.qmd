@@ -1,10 +1,13 @@
 ---
-title: "about me"
+title: "About me"
 subtitle: "my data science portfolio"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
+# Intro
+ I’m Makay Crandall—a passionate and curious data science student with a strong foundation in Python, machine learning, and data visualization. I love turning messy data into meaningful insights, whether through predictive modeling, interactive dashboards, or compelling visual stories. With hands-on experience in projects ranging from sports analytics to real estate classification, I aim to bridge the gap between raw data and real-world impact. I’m currently pursuing my degree in computer science and always looking for new challenges that combine creativity, critical thinking, and code.
+
 ## Title 2 Header
+
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
